@@ -1,2 +1,3 @@
 # aruba-data-plans
-Aruba Data-only plans guides
+
+全球通信 README（占位）
